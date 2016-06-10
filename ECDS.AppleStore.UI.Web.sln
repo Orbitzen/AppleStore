@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECDS.AppleStore.UI.Web", "ECDS.AppleStore.UI.Web\ECDS.AppleStore.UI.Web.csproj", "{62A46250-D2D1-49CB-A15E-0998FB1A86D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A46250-D2D1-49CB-A15E-0998FB1A86D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A46250-D2D1-49CB-A15E-0998FB1A86D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A46250-D2D1-49CB-A15E-0998FB1A86D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A46250-D2D1-49CB-A15E-0998FB1A86D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
